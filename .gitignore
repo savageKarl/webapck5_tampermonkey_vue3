@@ -1,0 +1,7 @@
+node_modules/
+
+dist/*
+!/dist/app_header.js
+
+auto-imports.d.ts
+components.d.ts
